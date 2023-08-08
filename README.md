@@ -34,3 +34,4 @@ This project includes the following features:
 
 This project was created by Oyeyinka Mayowa as a part of Covid19 Global Analysis. The data used in this project is obtained from Our World in Data.
 
+[The Final Visual from Florish](https://public.flourish.studio/visualisation/14281626/)
